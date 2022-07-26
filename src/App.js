@@ -83,7 +83,7 @@ const App = () => {
                                     element={<Employees />}
                                 />
                                 <Route
-                                    path="/ustomers"
+                                    path="/customers"
                                     element={<Customers />}
                                 />
 
